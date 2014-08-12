@@ -1,5 +1,5 @@
 ---
-layout: test
+layout: test 2
 title: You're up and running!
 ---
 
